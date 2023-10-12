@@ -2,10 +2,6 @@
 
 I'm currently a student at Northeastern University studying Computer Sceince & Linguistics.
 
-## Education
-*Northeastern University*+, Khoury College of Computer Sciences
-*Candidate: Bachelor of Science in Computer Science and Linguistics*
-Boston, MA Sep 2023 - May 2027
 
 <!--
 **nwigodsky/nwigodsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
